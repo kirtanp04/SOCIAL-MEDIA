@@ -1,0 +1,1 @@
+export  const Links = "https://spectrum-server-5q1v.onrender.com/api"
